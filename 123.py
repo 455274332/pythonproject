@@ -10,7 +10,7 @@ def f(n, x, N):
             break
         n = s
     # b.reverse()
-    return bfee
+    return bf
 
 print(f(8, 4, 2))
 
